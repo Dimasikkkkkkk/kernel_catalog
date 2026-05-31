@@ -6,16 +6,6 @@
     "cpu": [
       {
         "sort_order": 0,
-        "model_name": "Процессор KERNEL TEST Remote Update",
-        "socket": "AM5",
-        "tdp_w": 65,
-        "integrated_graphics": "no",
-        "family": "KERNEL TEST",
-        "brand": "KERNEL",
-        "price_rub": 99999
-      },
-      {
-        "sort_order": 1,
         "model_name": "Процессор AMD Ryzen 7 9800x3d",
         "socket": "AM5",
         "tdp_w": 120,
@@ -24,7 +14,7 @@
         "price_rub": 37990
       },
       {
-        "sort_order": 2,
+        "sort_order": 1,
         "model_name": "Процессор AMD Ryzen 7 7800X3D",
         "socket": "AM5",
         "tdp_w": 120,
@@ -34,7 +24,7 @@
         "price_rub": 28990
       },
       {
-        "sort_order": 3,
+        "sort_order": 2,
         "model_name": "Процессор AMD Ryzen 7 5700X",
         "socket": "AM4",
         "tdp_w": 65,
@@ -44,7 +34,7 @@
         "price_rub": 14990
       },
       {
-        "sort_order": 4,
+        "sort_order": 3,
         "model_name": "Процессор AMD Ryzen 5 5600",
         "socket": "AM4",
         "tdp_w": 65,
@@ -53,7 +43,7 @@
         "price_rub": 10990
       },
       {
-        "sort_order": 5,
+        "sort_order": 4,
         "model_name": "Процессор Intel Core i3 12100",
         "socket": "LGA 1700",
         "tdp_w": 60,
@@ -63,7 +53,7 @@
         "price_rub": 14990
       },
       {
-        "sort_order": 6,
+        "sort_order": 5,
         "model_name": "Процессор AMD Ryzen Threadripper Pro 9995WX",
         "socket": "sTR5",
         "tdp_w": 350,
@@ -71,7 +61,7 @@
         "price_rub": 1365980
       },
       {
-        "sort_order": 7,
+        "sort_order": 6,
         "model_name": "Процессор AMD Ryzen 5 7500F",
         "socket": "AM5",
         "tdp_w": 65,
@@ -81,7 +71,7 @@
         "price_rub": 10990
       },
       {
-        "sort_order": 8,
+        "sort_order": 7,
         "model_name": "Процессор Intel Core i5 12400F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -91,7 +81,7 @@
         "price_rub": 13290
       },
       {
-        "sort_order": 9,
+        "sort_order": 8,
         "model_name": "Процессор Intel Core i5 12400",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -101,7 +91,7 @@
         "price_rub": 17990
       },
       {
-        "sort_order": 10,
+        "sort_order": 9,
         "model_name": "Процессор AMD Ryzen 5 5500",
         "socket": "AM4",
         "tdp_w": 65,
@@ -111,7 +101,7 @@
         "price_rub": 7490
       },
       {
-        "sort_order": 11,
+        "sort_order": 10,
         "model_name": "Процессор AMD Ryzen 7 7700",
         "socket": "AM5",
         "tdp_w": 65,
@@ -121,7 +111,7 @@
         "price_rub": 16990
       },
       {
-        "sort_order": 12,
+        "sort_order": 11,
         "model_name": "Процессор AMD Ryzen 9 9950X3D",
         "socket": "AM5",
         "tdp_w": 170,
@@ -131,7 +121,7 @@
         "price_rub": 62990
       },
       {
-        "sort_order": 13,
+        "sort_order": 12,
         "model_name": "Процессор AMD Ryzen 7 9700X",
         "socket": "AM5",
         "tdp_w": 65,
@@ -141,7 +131,7 @@
         "price_rub": 22990
       },
       {
-        "sort_order": 14,
+        "sort_order": 13,
         "model_name": "Процессор AMD Ryzen 5 5600X",
         "socket": "AM4",
         "tdp_w": 65,
@@ -151,7 +141,7 @@
         "price_rub": 12190
       },
       {
-        "sort_order": 15,
+        "sort_order": 14,
         "model_name": "Процессор AMD Ryzen 5 3400G",
         "socket": "AM4",
         "tdp_w": 65,
@@ -161,7 +151,7 @@
         "price_rub": 6990
       },
       {
-        "sort_order": 16,
+        "sort_order": 15,
         "model_name": "Процессор Intel Core i5 14600K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -170,7 +160,7 @@
         "price_rub": 23990
       },
       {
-        "sort_order": 17,
+        "sort_order": 16,
         "model_name": "Процессор AMD Ryzen 9 9950X",
         "socket": "AM5",
         "tdp_w": 170,
@@ -180,7 +170,7 @@
         "price_rub": 44990
       },
       {
-        "sort_order": 18,
+        "sort_order": 17,
         "model_name": "Процессор Intel Core i7 14700KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -190,7 +180,7 @@
         "price_rub": 32990
       },
       {
-        "sort_order": 19,
+        "sort_order": 18,
         "model_name": "Процессор AMD Ryzen 5 5600G",
         "socket": "AM4",
         "tdp_w": 65,
@@ -200,7 +190,7 @@
         "price_rub": 13990
       },
       {
-        "sort_order": 20,
+        "sort_order": 19,
         "model_name": "Процессор Intel Core i5 14600KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -210,7 +200,7 @@
         "price_rub": 23990
       },
       {
-        "sort_order": 21,
+        "sort_order": 20,
         "model_name": "Процессор Intel Core i5 13600KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -220,7 +210,7 @@
         "price_rub": 21990
       },
       {
-        "sort_order": 22,
+        "sort_order": 21,
         "model_name": "Процессор AMD Ryzen 7 5800X",
         "socket": "AM4",
         "tdp_w": 105,
@@ -230,7 +220,7 @@
         "price_rub": 21990
       },
       {
-        "sort_order": 23,
+        "sort_order": 22,
         "model_name": "Процессор Intel Core i5 14400F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -240,7 +230,7 @@
         "price_rub": 15890
       },
       {
-        "sort_order": 24,
+        "sort_order": 23,
         "model_name": "Процессор AMD Ryzen 5 9600X",
         "socket": "AM5",
         "tdp_w": 65,
@@ -250,7 +240,7 @@
         "price_rub": 16990
       },
       {
-        "sort_order": 25,
+        "sort_order": 24,
         "model_name": "Процессор AMD Ryzen 9 5950X",
         "socket": "AM4",
         "tdp_w": 105,
@@ -259,7 +249,7 @@
         "price_rub": 32990
       },
       {
-        "sort_order": 26,
+        "sort_order": 25,
         "model_name": "Процессор Intel Core i5 13400F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -269,7 +259,7 @@
         "price_rub": 14790
       },
       {
-        "sort_order": 27,
+        "sort_order": 26,
         "model_name": "Процессор AMD Ryzen 3 3200G",
         "socket": "AM4",
         "tdp_w": 65,
@@ -279,7 +269,7 @@
         "price_rub": 4790
       },
       {
-        "sort_order": 28,
+        "sort_order": 27,
         "model_name": "Процессор AMD Ryzen 7 7700X",
         "socket": "AM5",
         "tdp_w": 105,
@@ -289,7 +279,7 @@
         "price_rub": 20990
       },
       {
-        "sort_order": 29,
+        "sort_order": 28,
         "model_name": "Процессор AMD Ryzen 5 3500X",
         "socket": "AM4",
         "tdp_w": 65,
@@ -299,7 +289,7 @@
         "price_rub": 4790
       },
       {
-        "sort_order": 30,
+        "sort_order": 29,
         "model_name": "Процессор AMD Ryzen 7 5700G",
         "socket": "AM4",
         "tdp_w": 65,
@@ -309,7 +299,7 @@
         "price_rub": 16590
       },
       {
-        "sort_order": 31,
+        "sort_order": 30,
         "model_name": "Процессор AMD Ryzen 5 5500GT",
         "socket": "AM4",
         "tdp_w": 45,
@@ -319,7 +309,7 @@
         "price_rub": 12990
       },
       {
-        "sort_order": 32,
+        "sort_order": 31,
         "model_name": "Процессор AMD Ryzen 5 3600",
         "socket": "AM4",
         "tdp_w": 65,
@@ -329,7 +319,7 @@
         "price_rub": 6990
       },
       {
-        "sort_order": 33,
+        "sort_order": 32,
         "model_name": "Процессор Intel Core i7 14700K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -338,7 +328,7 @@
         "price_rub": 39990
       },
       {
-        "sort_order": 34,
+        "sort_order": 33,
         "model_name": "Процессор AMD Ryzen 7 8700F",
         "socket": "AM5",
         "tdp_w": 65,
@@ -348,7 +338,7 @@
         "price_rub": 12990
       },
       {
-        "sort_order": 35,
+        "sort_order": 34,
         "model_name": "Процессор Intel Core i5 13600K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -357,7 +347,7 @@
         "price_rub": 20990
       },
       {
-        "sort_order": 36,
+        "sort_order": 35,
         "model_name": "Процессор AMD Ryzen 9 9900X",
         "socket": "AM5",
         "tdp_w": 120,
@@ -367,7 +357,7 @@
         "price_rub": 35990
       },
       {
-        "sort_order": 37,
+        "sort_order": 36,
         "model_name": "Процессор Intel Core i5 12400F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -377,7 +367,7 @@
         "price_rub": 13290
       },
       {
-        "sort_order": 38,
+        "sort_order": 37,
         "model_name": "Процессор AMD Ryzen 5 8400F",
         "socket": "AM5",
         "tdp_w": 65,
@@ -387,7 +377,7 @@
         "price_rub": 7490
       },
       {
-        "sort_order": 39,
+        "sort_order": 38,
         "model_name": "Процессор Intel Core i7 14700F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -397,7 +387,7 @@
         "price_rub": 30990
       },
       {
-        "sort_order": 40,
+        "sort_order": 39,
         "model_name": "Процессор Intel Core i3 14100",
         "socket": "LGA 1700",
         "tdp_w": 60,
@@ -407,7 +397,7 @@
         "price_rub": 15990
       },
       {
-        "sort_order": 41,
+        "sort_order": 40,
         "model_name": "Процессор AMD Ryzen 5 8500G",
         "socket": "AM5",
         "tdp_w": 45,
@@ -417,7 +407,7 @@
         "price_rub": 12790
       },
       {
-        "sort_order": 42,
+        "sort_order": 41,
         "model_name": "Процессор Intel Core Ultra 7 265K",
         "socket": "LGA 1851",
         "tdp_w": 125,
@@ -425,7 +415,7 @@
         "price_rub": 29990
       },
       {
-        "sort_order": 43,
+        "sort_order": 42,
         "model_name": "Процессор AMD Ryzen 7 9850x3d",
         "socket": "AM5",
         "tdp_w": 120,
@@ -435,7 +425,7 @@
         "price_rub": 46990
       },
       {
-        "sort_order": 44,
+        "sort_order": 43,
         "model_name": "Процессор Intel Core i5 12600KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -445,7 +435,7 @@
         "price_rub": 16790
       },
       {
-        "sort_order": 45,
+        "sort_order": 44,
         "model_name": "Процессор Intel Core i9 14900K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -454,7 +444,7 @@
         "price_rub": 47990
       },
       {
-        "sort_order": 46,
+        "sort_order": 45,
         "model_name": "Процессор Intel Core Ultra 7 265KF",
         "socket": "LGA 1851",
         "tdp_w": 125,
@@ -462,7 +452,7 @@
         "price_rub": 26990
       },
       {
-        "sort_order": 47,
+        "sort_order": 46,
         "model_name": "Процессор AMD Ryzen 9 9900X3D",
         "socket": "AM5",
         "tdp_w": 120,
@@ -471,7 +461,7 @@
         "price_rub": 48990
       },
       {
-        "sort_order": 48,
+        "sort_order": 47,
         "model_name": "Процессор AMD Ryzen 5 5600GT",
         "socket": "AM4",
         "tdp_w": 45,
@@ -481,7 +471,7 @@
         "price_rub": 13990
       },
       {
-        "sort_order": 49,
+        "sort_order": 48,
         "model_name": "Процессор Intel Core Ultra 9 285K",
         "socket": "LGA 1851",
         "tdp_w": 125,
@@ -489,7 +479,7 @@
         "price_rub": 55990
       },
       {
-        "sort_order": 50,
+        "sort_order": 49,
         "model_name": "Процессор AMD Ryzen 5 7600X",
         "socket": "AM5",
         "tdp_w": 105,
@@ -499,7 +489,7 @@
         "price_rub": 15990
       },
       {
-        "sort_order": 51,
+        "sort_order": 50,
         "model_name": "Процессор Intel Core i5 14400",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -509,7 +499,7 @@
         "price_rub": 19990
       },
       {
-        "sort_order": 52,
+        "sort_order": 51,
         "model_name": "Процессор Intel Core i3 12100F",
         "socket": "LGA 1700",
         "tdp_w": 58,
@@ -519,7 +509,7 @@
         "price_rub": 9790
       },
       {
-        "sort_order": 53,
+        "sort_order": 52,
         "model_name": "Процессор Intel Core i7 12700K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -528,7 +518,7 @@
         "price_rub": 34990
       },
       {
-        "sort_order": 54,
+        "sort_order": 53,
         "model_name": "Процессор Intel Core i3 14100F",
         "socket": "LGA 1700",
         "tdp_w": 58,
@@ -538,7 +528,7 @@
         "price_rub": 9990
       },
       {
-        "sort_order": 55,
+        "sort_order": 54,
         "model_name": "Процессор Intel Core i5 13500",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -548,7 +538,7 @@
         "price_rub": 25990
       },
       {
-        "sort_order": 56,
+        "sort_order": 55,
         "model_name": "Процессор Intel Core i7 13700KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -558,7 +548,7 @@
         "price_rub": 27990
       },
       {
-        "sort_order": 57,
+        "sort_order": 56,
         "model_name": "Процессор Intel Core i9 14900KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -568,7 +558,7 @@
         "price_rub": 44990
       },
       {
-        "sort_order": 58,
+        "sort_order": 57,
         "model_name": "Процессор Intel Pentium Gold G6405",
         "socket": "LGA 1200",
         "tdp_w": 58,
@@ -577,7 +567,7 @@
         "price_rub": 4990
       },
       {
-        "sort_order": 59,
+        "sort_order": 58,
         "model_name": "Процессор Intel Core i5 13400F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -587,7 +577,7 @@
         "price_rub": 14790
       },
       {
-        "sort_order": 60,
+        "sort_order": 59,
         "model_name": "Процессор AMD Ryzen 5 7600",
         "socket": "AM5",
         "tdp_w": 65,
@@ -597,7 +587,7 @@
         "price_rub": 16290
       },
       {
-        "sort_order": 61,
+        "sort_order": 60,
         "model_name": "Процессор Intel Core i7 12700",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -607,7 +597,7 @@
         "price_rub": 34990
       },
       {
-        "sort_order": 62,
+        "sort_order": 61,
         "model_name": "Процессор AMD Ryzen 5 PRO 5650G",
         "socket": "AM4",
         "tdp_w": 65,
@@ -617,7 +607,7 @@
         "price_rub": 12990
       },
       {
-        "sort_order": 63,
+        "sort_order": 62,
         "model_name": "Процессор Intel Core Ultra 5 245K",
         "socket": "LGA 1851",
         "tdp_w": 125,
@@ -625,7 +615,7 @@
         "price_rub": 20990
       },
       {
-        "sort_order": 64,
+        "sort_order": 63,
         "model_name": "Процессор Intel Core i5 10400F",
         "socket": "LGA 1200",
         "tdp_w": 65,
@@ -635,7 +625,7 @@
         "price_rub": 10190
       },
       {
-        "sort_order": 65,
+        "sort_order": 64,
         "model_name": "Процессор AMD Ryzen 3 5300G",
         "socket": "AM4",
         "tdp_w": 65,
@@ -645,7 +635,7 @@
         "price_rub": 10990
       },
       {
-        "sort_order": 66,
+        "sort_order": 65,
         "model_name": "Процессор Intel Core i7 12700F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -655,7 +645,7 @@
         "price_rub": 27990
       },
       {
-        "sort_order": 67,
+        "sort_order": 66,
         "model_name": "Процессор AMD Ryzen 9 7900X",
         "socket": "AM5",
         "tdp_w": 170,
@@ -664,7 +654,7 @@
         "price_rub": 32990
       },
       {
-        "sort_order": 68,
+        "sort_order": 67,
         "model_name": "Процессор Intel Core i3 10100",
         "socket": "LGA 1200",
         "tdp_w": 65,
@@ -674,7 +664,7 @@
         "price_rub": 9190
       },
       {
-        "sort_order": 69,
+        "sort_order": 68,
         "model_name": "Процессор AMD Ryzen 5 7400F",
         "socket": "AM5",
         "tdp_w": 65,
@@ -684,7 +674,7 @@
         "price_rub": 10790
       },
       {
-        "sort_order": 70,
+        "sort_order": 69,
         "model_name": "Процессор Intel Core i5 13400",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -694,7 +684,7 @@
         "price_rub": 21890
       },
       {
-        "sort_order": 71,
+        "sort_order": 70,
         "model_name": "Процессор AMD Ryzen 7 8700G",
         "socket": "AM5",
         "tdp_w": 45,
@@ -704,7 +694,7 @@
         "price_rub": 22990
       },
       {
-        "sort_order": 72,
+        "sort_order": 71,
         "model_name": "Процессор Intel Core Ultra 5 235",
         "socket": "LGA 1851",
         "tdp_w": 65,
@@ -712,7 +702,7 @@
         "price_rub": 26990
       },
       {
-        "sort_order": 73,
+        "sort_order": 72,
         "model_name": "Процессор AMD Ryzen 9 7950X3D",
         "socket": "AM5",
         "tdp_w": 120,
@@ -722,7 +712,7 @@
         "price_rub": 57990
       },
       {
-        "sort_order": 74,
+        "sort_order": 73,
         "model_name": "Процессор Intel Core i7 14700",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -732,7 +722,7 @@
         "price_rub": 39990
       },
       {
-        "sort_order": 75,
+        "sort_order": 74,
         "model_name": "Процессор Intel Core i5 12600K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -741,7 +731,7 @@
         "price_rub": 21990
       },
       {
-        "sort_order": 76,
+        "sort_order": 75,
         "model_name": "Процессор AMD Ryzen 5 8600G",
         "socket": "AM5",
         "tdp_w": 45,
@@ -751,7 +741,7 @@
         "price_rub": 13990
       },
       {
-        "sort_order": 77,
+        "sort_order": 76,
         "model_name": "Процессор Intel Core i5 10400",
         "socket": "LGA 1200",
         "tdp_w": 65,
@@ -761,7 +751,7 @@
         "price_rub": 13990
       },
       {
-        "sort_order": 78,
+        "sort_order": 77,
         "model_name": "Процессор Intel Core i3 10105",
         "socket": "LGA 1200",
         "tdp_w": 65,
@@ -771,7 +761,7 @@
         "price_rub": 9190
       },
       {
-        "sort_order": 79,
+        "sort_order": 78,
         "model_name": "Процессор Intel Core i7 12700KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -781,7 +771,7 @@
         "price_rub": 28990
       },
       {
-        "sort_order": 80,
+        "sort_order": 79,
         "model_name": "Процессор Intel Celeron G5905",
         "socket": "LGA 1200",
         "tdp_w": 58,
@@ -791,7 +781,7 @@
         "price_rub": 2690
       },
       {
-        "sort_order": 81,
+        "sort_order": 80,
         "model_name": "Процессор Intel Core i7 13700F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -801,7 +791,7 @@
         "price_rub": 27990
       },
       {
-        "sort_order": 82,
+        "sort_order": 81,
         "model_name": "Процессор AMD Athlon Pro 300GE",
         "socket": "AM4",
         "tdp_w": 35,
@@ -810,7 +800,7 @@
         "price_rub": 2990
       },
       {
-        "sort_order": 83,
+        "sort_order": 82,
         "model_name": "Процессор Intel Core i3 13100F",
         "socket": "LGA 1700",
         "tdp_w": 58,
@@ -820,7 +810,7 @@
         "price_rub": 9990
       },
       {
-        "sort_order": 84,
+        "sort_order": 83,
         "model_name": "Процессор Intel Core i5 12500",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -830,7 +820,7 @@
         "price_rub": 25990
       },
       {
-        "sort_order": 85,
+        "sort_order": 84,
         "model_name": "Процессор Intel Core i9 12900K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -839,7 +829,7 @@
         "price_rub": 34990
       },
       {
-        "sort_order": 86,
+        "sort_order": 85,
         "model_name": "Процессор Intel Core i9 13900K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -848,7 +838,7 @@
         "price_rub": 41990
       },
       {
-        "sort_order": 87,
+        "sort_order": 86,
         "model_name": "Процессор Intel Core i7 13700K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -857,7 +847,7 @@
         "price_rub": 36990
       },
       {
-        "sort_order": 88,
+        "sort_order": 87,
         "model_name": "Процессор Intel Core i5 14500",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -867,7 +857,7 @@
         "price_rub": 34990
       },
       {
-        "sort_order": 89,
+        "sort_order": 88,
         "model_name": "Процессор Intel Core Ultra 5 245KF",
         "socket": "LGA 1851",
         "tdp_w": 125,
@@ -875,7 +865,7 @@
         "price_rub": 19990
       },
       {
-        "sort_order": 90,
+        "sort_order": 89,
         "model_name": "Процессор Intel Core Ultra 5 225",
         "socket": "LGA 1851",
         "tdp_w": 65,
@@ -883,7 +873,7 @@
         "price_rub": 15990
       },
       {
-        "sort_order": 91,
+        "sort_order": 90,
         "model_name": "Процессор AMD Athlon 3000G",
         "socket": "AM4",
         "tdp_w": 35,
@@ -893,7 +883,7 @@
         "price_rub": 3790
       },
       {
-        "sort_order": 92,
+        "sort_order": 91,
         "model_name": "Процессор AMD Ryzen Threadripper Pro 7995WX",
         "socket": "sTR5",
         "tdp_w": 350,
@@ -901,7 +891,7 @@
         "price_rub": 944500
       },
       {
-        "sort_order": 93,
+        "sort_order": 92,
         "model_name": "Процессор AMD Ryzen 7 5700",
         "socket": "AM4",
         "tdp_w": 65,
@@ -910,7 +900,7 @@
         "price_rub": 12490
       },
       {
-        "sort_order": 94,
+        "sort_order": 93,
         "model_name": "Процессор Intel Pentium Gold G6400",
         "socket": "LGA 1200",
         "tdp_w": 58,
@@ -920,7 +910,7 @@
         "price_rub": 4990
       },
       {
-        "sort_order": 95,
+        "sort_order": 94,
         "model_name": "Процессор Intel Core i9 12900KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -930,7 +920,7 @@
         "price_rub": 30990
       },
       {
-        "sort_order": 96,
+        "sort_order": 95,
         "model_name": "Процессор AMD Ryzen 9 7950X",
         "socket": "AM5",
         "tdp_w": 170,
@@ -940,7 +930,7 @@
         "price_rub": 48990
       },
       {
-        "sort_order": 97,
+        "sort_order": 96,
         "model_name": "Процессор Intel Core Ultra 9 285",
         "socket": "LGA 1851",
         "tdp_w": 65,
@@ -948,7 +938,7 @@
         "price_rub": 55990
       },
       {
-        "sort_order": 98,
+        "sort_order": 97,
         "model_name": "Процессор AMD Ryzen 5 3600",
         "socket": "AM4",
         "tdp_w": 65,
@@ -957,7 +947,7 @@
         "price_rub": 6990
       },
       {
-        "sort_order": 99,
+        "sort_order": 98,
         "model_name": "Процессор Intel Core i9 10940X",
         "socket": "LGA 2066",
         "tdp_w": 165,
@@ -966,7 +956,7 @@
         "price_rub": 66990
       },
       {
-        "sort_order": 100,
+        "sort_order": 99,
         "model_name": "Процессор AMD Ryzen Threadripper Pro 5995WX sWRX8",
         "socket": "sWRX8",
         "tdp_w": 280,
@@ -974,7 +964,7 @@
         "price_rub": 349990
       },
       {
-        "sort_order": 101,
+        "sort_order": 100,
         "model_name": "Процессор AMD Ryzen 5 4500",
         "socket": "AM4",
         "tdp_w": 65,
@@ -983,7 +973,7 @@
         "price_rub": 6950
       },
       {
-        "sort_order": 102,
+        "sort_order": 101,
         "model_name": "Процессор Intel Core i3 13100",
         "socket": "LGA 1700",
         "tdp_w": 60,
@@ -993,7 +983,7 @@
         "price_rub": 17990
       },
       {
-        "sort_order": 103,
+        "sort_order": 102,
         "model_name": "Процессор AMD Ryzen 3 PRO 4350G",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1003,7 +993,7 @@
         "price_rub": 9370
       },
       {
-        "sort_order": 104,
+        "sort_order": 103,
         "model_name": "Процессор AMD Athlon X4 950",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1012,7 +1002,7 @@
         "price_rub": 650
       },
       {
-        "sort_order": 105,
+        "sort_order": 104,
         "model_name": "Процессор Intel Core i3 10105F",
         "socket": "LGA 1200",
         "tdp_w": 65,
@@ -1022,7 +1012,7 @@
         "price_rub": 5490
       },
       {
-        "sort_order": 106,
+        "sort_order": 105,
         "model_name": "Процессор AMD Sempron 2650",
         "socket": "AM1",
         "tdp_w": 25,
@@ -1030,7 +1020,7 @@
         "price_rub": 1990
       },
       {
-        "sort_order": 107,
+        "sort_order": 106,
         "model_name": "Процессор AMD A6 9500",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1038,7 +1028,7 @@
         "price_rub": 700
       },
       {
-        "sort_order": 108,
+        "sort_order": 107,
         "model_name": "Процессор Intel Core i9 10920X",
         "socket": "LGA 2066",
         "tdp_w": 165,
@@ -1047,7 +1037,7 @@
         "price_rub": 68780
       },
       {
-        "sort_order": 109,
+        "sort_order": 108,
         "model_name": "Процессор Intel Core i9 13900KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1057,7 +1047,7 @@
         "price_rub": 38990
       },
       {
-        "sort_order": 110,
+        "sort_order": 109,
         "model_name": "Процессор Intel Core i5 12400",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1067,7 +1057,7 @@
         "price_rub": 17990
       },
       {
-        "sort_order": 111,
+        "sort_order": 110,
         "model_name": "Процессор Intel Core i9 14900KS",
         "socket": "LGA 1700",
         "tdp_w": 150,
@@ -1076,7 +1066,7 @@
         "price_rub": 71300
       },
       {
-        "sort_order": 112,
+        "sort_order": 111,
         "model_name": "Процессор AMD Ryzen Threadripper Pro 9975WX",
         "socket": "sTR5",
         "tdp_w": 350,
@@ -1084,7 +1074,7 @@
         "price_rub": 464150
       },
       {
-        "sort_order": 113,
+        "sort_order": 112,
         "model_name": "Процессор Intel Core Ultra 5 225F",
         "socket": "LGA 1851",
         "tdp_w": 65,
@@ -1092,7 +1082,7 @@
         "price_rub": 15990
       },
       {
-        "sort_order": 114,
+        "sort_order": 113,
         "model_name": "Процессор AMD Ryzen 5 PRO 5655G",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1102,7 +1092,7 @@
         "price_rub": 13990
       },
       {
-        "sort_order": 115,
+        "sort_order": 114,
         "model_name": "Процессор AMD Ryzen Threadripper Pro 9965WX",
         "socket": "sTR5",
         "tdp_w": 350,
@@ -1110,7 +1100,7 @@
         "price_rub": 337920
       },
       {
-        "sort_order": 116,
+        "sort_order": 115,
         "model_name": "Процессор AMD Ryzen 5 7600x3d",
         "socket": "AM5",
         "tdp_w": 65,
@@ -1120,7 +1110,7 @@
         "price_rub": 32990
       },
       {
-        "sort_order": 117,
+        "sort_order": 116,
         "model_name": "Процессор AMD Ryzen Threadripper 5965WX sWRX8",
         "socket": "sWRX8",
         "tdp_w": 280,
@@ -1128,7 +1118,7 @@
         "price_rub": 159990
       },
       {
-        "sort_order": 118,
+        "sort_order": 117,
         "model_name": "Процессор Intel Core i7 13700",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1138,7 +1128,7 @@
         "price_rub": 40990
       },
       {
-        "sort_order": 119,
+        "sort_order": 118,
         "model_name": "Процессор AMD Ryzen Threadripper 9980x",
         "socket": "sTR5",
         "tdp_w": 350,
@@ -1146,7 +1136,7 @@
         "price_rub": 574180
       },
       {
-        "sort_order": 120,
+        "sort_order": 119,
         "model_name": "Процессор AMD Ryzen Threadripper Pro 5975WX sWRX8",
         "socket": "sWRX8",
         "tdp_w": 280,
@@ -1154,7 +1144,7 @@
         "price_rub": 169990
       },
       {
-        "sort_order": 121,
+        "sort_order": 120,
         "model_name": "Процессор AMD Ryzen Threadripper 9970X",
         "socket": "sTR5",
         "tdp_w": 350,
@@ -1162,7 +1152,7 @@
         "price_rub": 296040
       },
       {
-        "sort_order": 122,
+        "sort_order": 121,
         "model_name": "Процессор AMD Ryzen Threadripper 1900X TR4",
         "socket": "TR4",
         "tdp_w": 180,
@@ -1170,7 +1160,7 @@
         "price_rub": 4990
       },
       {
-        "sort_order": 123,
+        "sort_order": 122,
         "model_name": "Процессор Intel Core i9 12900",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1180,7 +1170,7 @@
         "price_rub": 40500
       },
       {
-        "sort_order": 124,
+        "sort_order": 123,
         "model_name": "Процессор AMD Ryzen 5 5500X3d",
         "socket": "AM4",
         "tdp_w": 105,
@@ -1190,7 +1180,7 @@
         "price_rub": 17990
       },
       {
-        "sort_order": 125,
+        "sort_order": 124,
         "model_name": "Процессор AMD Ryzen 5 PRO 3600",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1199,7 +1189,7 @@
         "price_rub": 7390
       },
       {
-        "sort_order": 126,
+        "sort_order": 125,
         "model_name": "Процессор AMD Ryzen 5 5600XT",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1209,7 +1199,7 @@
         "price_rub": 12990
       },
       {
-        "sort_order": 127,
+        "sort_order": 126,
         "model_name": "Процессор Intel Core i5-12400",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1219,7 +1209,7 @@
         "price_rub": 18800
       },
       {
-        "sort_order": 128,
+        "sort_order": 127,
         "model_name": "Процессор Intel Core i3-12100",
         "socket": "LGA 1700",
         "tdp_w": 58,
@@ -1229,7 +1219,7 @@
         "price_rub": 14470
       },
       {
-        "sort_order": 129,
+        "sort_order": 128,
         "model_name": "Процессор Intel Core Ultra 7 265K",
         "socket": "LGA 1851",
         "tdp_w": 125,
@@ -1239,7 +1229,7 @@
         "price_rub": 28620
       },
       {
-        "sort_order": 130,
+        "sort_order": 129,
         "model_name": "Процессор Intel Core i5-14400F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1249,14 +1239,14 @@
         "price_rub": 15390
       },
       {
-        "sort_order": 131,
+        "sort_order": 130,
         "model_name": "Процессор Intel Core Ultra 9 285K",
         "socket": "Процессор Intel Core Ultra 9 285K",
         "brand": "Intel",
         "price_rub": 54070
       },
       {
-        "sort_order": 132,
+        "sort_order": 131,
         "model_name": "Процессор Intel Core i5-12400F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1266,7 +1256,7 @@
         "price_rub": 13520
       },
       {
-        "sort_order": 133,
+        "sort_order": 132,
         "model_name": "Процессор Intel Core i5-14600KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1276,7 +1266,7 @@
         "price_rub": 23270
       },
       {
-        "sort_order": 134,
+        "sort_order": 133,
         "model_name": "Процессор Intel Core i7-14700KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1286,7 +1276,7 @@
         "price_rub": 32270
       },
       {
-        "sort_order": 135,
+        "sort_order": 134,
         "model_name": "Процессор Intel Core i5-13600K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1296,7 +1286,7 @@
         "price_rub": 22030
       },
       {
-        "sort_order": 136,
+        "sort_order": 135,
         "model_name": "Процессор Intel Core i5-14600K",
         "socket": "Процессор Intel Core i5-14600K",
         "family": "Core i5",
@@ -1304,7 +1294,7 @@
         "price_rub": 24120
       },
       {
-        "sort_order": 137,
+        "sort_order": 136,
         "model_name": "Процессор Intel Core i5-13400F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1314,7 +1304,7 @@
         "price_rub": 14610
       },
       {
-        "sort_order": 138,
+        "sort_order": 137,
         "model_name": "Процессор Intel Core i9-14900KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1324,7 +1314,7 @@
         "price_rub": 42690
       },
       {
-        "sort_order": 139,
+        "sort_order": 138,
         "model_name": "Процессор Intel Core Ultra 7 265KF",
         "socket": "LGA 1851",
         "tdp_w": 125,
@@ -1334,7 +1324,7 @@
         "price_rub": 25360
       },
       {
-        "sort_order": 140,
+        "sort_order": 139,
         "model_name": "Процессор Intel Core i7-14700",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1344,7 +1334,7 @@
         "price_rub": 37300
       },
       {
-        "sort_order": 141,
+        "sort_order": 140,
         "model_name": "Процессор Intel Core i7-14700F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1354,14 +1344,14 @@
         "price_rub": 30670
       },
       {
-        "sort_order": 142,
+        "sort_order": 141,
         "model_name": "Процессор Intel Core Ultra 5 245K",
         "socket": "Процессор Intel Core Ultra 5 245K",
         "brand": "Intel",
         "price_rub": 19540
       },
       {
-        "sort_order": 143,
+        "sort_order": 142,
         "model_name": "Процессор Intel Core i3-14100",
         "socket": "LGA 1700",
         "tdp_w": 60,
@@ -1371,7 +1361,7 @@
         "price_rub": 15960
       },
       {
-        "sort_order": 144,
+        "sort_order": 143,
         "model_name": "Процессор Intel Core i5-14400",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1381,7 +1371,7 @@
         "price_rub": 20520
       },
       {
-        "sort_order": 145,
+        "sort_order": 144,
         "model_name": "Процессор Intel Core i7-12700KF",
         "socket": "Процессор Intel Core i7-12700KF",
         "integrated_graphics": "no",
@@ -1390,7 +1380,7 @@
         "price_rub": 29550
       },
       {
-        "sort_order": 146,
+        "sort_order": 145,
         "model_name": "Процессор Intel Core Ultra 5 245KF",
         "socket": "LGA 1851",
         "tdp_w": 125,
@@ -1400,7 +1390,7 @@
         "price_rub": 17690
       },
       {
-        "sort_order": 147,
+        "sort_order": 146,
         "model_name": "Процессор Intel Core i5-10400",
         "socket": "LGA 1200",
         "tdp_w": 65,
@@ -1410,7 +1400,7 @@
         "price_rub": 12520
       },
       {
-        "sort_order": 148,
+        "sort_order": 147,
         "model_name": "Процессор Intel Core i5-13400",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1420,7 +1410,7 @@
         "price_rub": 24070
       },
       {
-        "sort_order": 149,
+        "sort_order": 148,
         "model_name": "Процессор Intel Core i7-12700",
         "socket": "LGA 1700",
         "tdp_w": 180,
@@ -1430,7 +1420,7 @@
         "price_rub": 34060
       },
       {
-        "sort_order": 150,
+        "sort_order": 149,
         "model_name": "Процессор Intel Core i7-13700F",
         "socket": "Процессор Intel Core i7-13700F",
         "integrated_graphics": "no",
@@ -1439,7 +1429,7 @@
         "price_rub": 27680
       },
       {
-        "sort_order": 151,
+        "sort_order": 150,
         "model_name": "Процессор Intel Core i7-14700K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1449,7 +1439,7 @@
         "price_rub": 39560
       },
       {
-        "sort_order": 152,
+        "sort_order": 151,
         "model_name": "Процессор Intel Core Ultra 5 225",
         "socket": "LGA 1851",
         "tdp_w": 65,
@@ -1459,7 +1449,7 @@
         "price_rub": 16230
       },
       {
-        "sort_order": 153,
+        "sort_order": 152,
         "model_name": "Процессор Intel Core i3-10105",
         "socket": "Процессор Intel Core i3-10105",
         "family": "Core i3",
@@ -1467,7 +1457,7 @@
         "price_rub": 9680
       },
       {
-        "sort_order": 154,
+        "sort_order": 153,
         "model_name": "Процессор Intel Core i3-14100F",
         "socket": "LGA 1700",
         "tdp_w": 58,
@@ -1477,7 +1467,7 @@
         "price_rub": 10650
       },
       {
-        "sort_order": 155,
+        "sort_order": 154,
         "model_name": "Процессор Intel Core i5-12600KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1487,7 +1477,7 @@
         "price_rub": 17310
       },
       {
-        "sort_order": 156,
+        "sort_order": 155,
         "model_name": "Процессор Intel Core Ultra 5 250K Plus",
         "socket": "LGA 1851",
         "tdp_w": 125,
@@ -1497,7 +1487,7 @@
         "price_rub": 27660
       },
       {
-        "sort_order": 157,
+        "sort_order": 156,
         "model_name": "Процессор AMD Ryzen 5 5600GT",
         "socket": "Процессор AMD Ryzen 5 5600GT",
         "integrated_graphics": "yes",
@@ -1506,7 +1496,7 @@
         "price_rub": 13930
       },
       {
-        "sort_order": 158,
+        "sort_order": 157,
         "model_name": "Процессор Intel Core i5-13600KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1516,7 +1506,7 @@
         "price_rub": 20700
       },
       {
-        "sort_order": 159,
+        "sort_order": 158,
         "model_name": "Процессор Intel Core i7-13700K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1526,7 +1516,7 @@
         "price_rub": 36920
       },
       {
-        "sort_order": 160,
+        "sort_order": 159,
         "model_name": "Процессор Intel Core i7-13700KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1536,7 +1526,7 @@
         "price_rub": 29080
       },
       {
-        "sort_order": 161,
+        "sort_order": 160,
         "model_name": "Процессор Intel Core i9-13900K",
         "socket": "Процессор Intel Core i9-13900K",
         "family": "Core i9",
@@ -1544,7 +1534,7 @@
         "price_rub": 37670
       },
       {
-        "sort_order": 162,
+        "sort_order": 161,
         "model_name": "Процессор Intel Core i9-13900KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1554,7 +1544,7 @@
         "price_rub": 34920
       },
       {
-        "sort_order": 163,
+        "sort_order": 162,
         "model_name": "Процессор Intel Core i3-12100F",
         "socket": "LGA 1700",
         "tdp_w": 58,
@@ -1564,7 +1554,7 @@
         "price_rub": 10490
       },
       {
-        "sort_order": 164,
+        "sort_order": 163,
         "model_name": "Процессор Intel Core i7-12700K",
         "socket": "LGA 1700",
         "tdp_w": 190,
@@ -1574,7 +1564,7 @@
         "price_rub": 34480
       },
       {
-        "sort_order": 165,
+        "sort_order": 164,
         "model_name": "Процессор Intel Core i9-14900K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1584,14 +1574,14 @@
         "price_rub": 47370
       },
       {
-        "sort_order": 166,
+        "sort_order": 165,
         "model_name": "Процессор Intel Core Ultra 5 225F",
         "socket": "Процессор Intel Core Ultra 5 225F",
         "brand": "Intel",
         "price_rub": 13360
       },
       {
-        "sort_order": 167,
+        "sort_order": 166,
         "model_name": "Процессор Intel Core Ultra 9 285",
         "socket": "LGA 1851",
         "tdp_w": 65,
@@ -1601,7 +1591,7 @@
         "price_rub": 54330
       },
       {
-        "sort_order": 168,
+        "sort_order": 167,
         "model_name": "Процессор Intel Core i7-12700F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1611,7 +1601,7 @@
         "price_rub": 29080
       },
       {
-        "sort_order": 169,
+        "sort_order": 168,
         "model_name": "Процессор Intel Core i5-10600K",
         "socket": "LGA 1200",
         "tdp_w": 125,
@@ -1621,7 +1611,7 @@
         "price_rub": 15140
       },
       {
-        "sort_order": 170,
+        "sort_order": 169,
         "model_name": "Процессор Intel Core i5-11600K",
         "socket": "LGA 1200",
         "tdp_w": 125,
@@ -1631,7 +1621,7 @@
         "price_rub": 14460
       },
       {
-        "sort_order": 171,
+        "sort_order": 170,
         "model_name": "Процессор Intel Core i5-12500",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1641,7 +1631,7 @@
         "price_rub": 23810
       },
       {
-        "sort_order": 172,
+        "sort_order": 171,
         "model_name": "Процессор Intel Core i5-12600K",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1651,7 +1641,7 @@
         "price_rub": 21940
       },
       {
-        "sort_order": 173,
+        "sort_order": 172,
         "model_name": "Процессор Intel Core i9-12900K",
         "socket": "Процессор Intel Core i9-12900K",
         "family": "Core i9",
@@ -1659,7 +1649,7 @@
         "price_rub": 37630
       },
       {
-        "sort_order": 174,
+        "sort_order": 173,
         "model_name": "Процессор Intel Core Ultra 5 235",
         "socket": "LGA 1851",
         "tdp_w": 65,
@@ -1669,7 +1659,7 @@
         "price_rub": 25200
       },
       {
-        "sort_order": 175,
+        "sort_order": 174,
         "model_name": "Процессор Intel Core Ultra 7 265K BOX",
         "socket": "LGA 1851",
         "tdp_w": 125,
@@ -1679,7 +1669,7 @@
         "price_rub": 30760
       },
       {
-        "sort_order": 176,
+        "sort_order": 175,
         "model_name": "Процессор AMD Athlon 3000G",
         "socket": "AM4",
         "tdp_w": 35,
@@ -1689,7 +1679,7 @@
         "price_rub": 3410
       },
       {
-        "sort_order": 177,
+        "sort_order": 176,
         "model_name": "Процессор AMD Athlon PRO 300GE",
         "socket": "AM4",
         "tdp_w": 35,
@@ -1699,7 +1689,7 @@
         "price_rub": 3320
       },
       {
-        "sort_order": 178,
+        "sort_order": 177,
         "model_name": "Процессор AMD Ryzen 5 9500F",
         "socket": "AM5",
         "tdp_w": 65,
@@ -1709,7 +1699,7 @@
         "price_rub": 18830
       },
       {
-        "sort_order": 179,
+        "sort_order": 178,
         "model_name": "Процессор AMD Ryzen 5 PRO 5655G",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1719,7 +1709,7 @@
         "price_rub": 14090
       },
       {
-        "sort_order": 180,
+        "sort_order": 179,
         "model_name": "Процессор Intel Core i3-10105F",
         "socket": "LGA 1200",
         "tdp_w": 65,
@@ -1729,7 +1719,7 @@
         "price_rub": 7640
       },
       {
-        "sort_order": 181,
+        "sort_order": 180,
         "model_name": "Процессор Intel Core i5-10400F",
         "socket": "LGA 1200",
         "tdp_w": 65,
@@ -1739,7 +1729,7 @@
         "price_rub": 11450
       },
       {
-        "sort_order": 182,
+        "sort_order": 181,
         "model_name": "Процессор Intel Core i5-11400F",
         "socket": "LGA 1200",
         "tdp_w": 65,
@@ -1749,7 +1739,7 @@
         "price_rub": 11510
       },
       {
-        "sort_order": 183,
+        "sort_order": 182,
         "model_name": "Процессор Intel Core i9-14900KS",
         "socket": "LGA 1700",
         "tdp_w": 150,
@@ -1759,7 +1749,7 @@
         "price_rub": 64540
       },
       {
-        "sort_order": 184,
+        "sort_order": 183,
         "model_name": "Процессор AMD A6-7480",
         "socket": "FM2+",
         "tdp_w": 65,
@@ -1769,7 +1759,7 @@
         "price_rub": 570
       },
       {
-        "sort_order": 185,
+        "sort_order": 184,
         "model_name": "Процессор AMD A6-9500",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1779,7 +1769,7 @@
         "price_rub": 990
       },
       {
-        "sort_order": 186,
+        "sort_order": 185,
         "model_name": "Процессор AMD PRO A10-8770",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1789,7 +1779,7 @@
         "price_rub": 4270
       },
       {
-        "sort_order": 187,
+        "sort_order": 186,
         "model_name": "Процессор AMD Ryzen 3 PRO 4350G",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1799,7 +1789,7 @@
         "price_rub": 10690
       },
       {
-        "sort_order": 188,
+        "sort_order": 187,
         "model_name": "Процессор AMD Ryzen 3 PRO 5350G",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1809,7 +1799,7 @@
         "price_rub": 12910
       },
       {
-        "sort_order": 189,
+        "sort_order": 188,
         "model_name": "Процессор AMD Ryzen 5 5600G BOX",
         "socket": "Процессор AMD Ryzen 5 5600G BOX",
         "integrated_graphics": "yes",
@@ -1818,7 +1808,7 @@
         "price_rub": 17000
       },
       {
-        "sort_order": 190,
+        "sort_order": 189,
         "model_name": "Процессор AMD Ryzen 5 PRO 3600",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1828,7 +1818,7 @@
         "price_rub": 7090
       },
       {
-        "sort_order": 191,
+        "sort_order": 190,
         "model_name": "Процессор AMD Ryzen 5 PRO 5650G",
         "socket": "AM4",
         "tdp_w": 65,
@@ -1838,7 +1828,7 @@
         "price_rub": 14800
       },
       {
-        "sort_order": 192,
+        "sort_order": 191,
         "model_name": "Процессор AMD Ryzen 5 PRO 8500G",
         "socket": "AM5",
         "tdp_w": 65,
@@ -1848,7 +1838,7 @@
         "price_rub": 14390
       },
       {
-        "sort_order": 193,
+        "sort_order": 192,
         "model_name": "Процессор AMD Ryzen 9 5950X BOX",
         "socket": "Процессор AMD Ryzen 9 5950X BOX",
         "family": "Ryzen 9",
@@ -1856,7 +1846,7 @@
         "price_rub": 34760
       },
       {
-        "sort_order": 194,
+        "sort_order": 193,
         "model_name": "Процессор Intel Core i3-10100F",
         "socket": "LGA 1200",
         "tdp_w": 65,
@@ -1866,7 +1856,7 @@
         "price_rub": 7640
       },
       {
-        "sort_order": 195,
+        "sort_order": 194,
         "model_name": "Процессор Intel Core i3-13100",
         "socket": "LGA 1700",
         "tdp_w": 60,
@@ -1876,7 +1866,7 @@
         "price_rub": 18770
       },
       {
-        "sort_order": 196,
+        "sort_order": 195,
         "model_name": "Процессор Intel Core i3-13100F",
         "socket": "Процессор Intel Core i3-13100F",
         "integrated_graphics": "no",
@@ -1885,7 +1875,7 @@
         "price_rub": 9920
       },
       {
-        "sort_order": 197,
+        "sort_order": 196,
         "model_name": "Процессор Intel Core i5-10500",
         "socket": "LGA 1200",
         "tdp_w": 65,
@@ -1895,7 +1885,7 @@
         "price_rub": 15070
       },
       {
-        "sort_order": 198,
+        "sort_order": 197,
         "model_name": "Процессор Intel Core i5-11400",
         "socket": "LGA 1200",
         "tdp_w": 65,
@@ -1905,7 +1895,7 @@
         "price_rub": 16040
       },
       {
-        "sort_order": 199,
+        "sort_order": 198,
         "model_name": "Процессор Intel Core i5-13500",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1915,7 +1905,7 @@
         "price_rub": 23270
       },
       {
-        "sort_order": 200,
+        "sort_order": 199,
         "model_name": "Процессор Intel Core i5-14500",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1925,7 +1915,7 @@
         "price_rub": 30580
       },
       {
-        "sort_order": 201,
+        "sort_order": 200,
         "model_name": "Процессор Intel Core i5-6500",
         "socket": "LGA 1151",
         "tdp_w": 65,
@@ -1935,7 +1925,7 @@
         "price_rub": 12870
       },
       {
-        "sort_order": 202,
+        "sort_order": 201,
         "model_name": "Процессор Intel Core i7-10700KF",
         "socket": "Процессор Intel Core i7-10700KF",
         "integrated_graphics": "no",
@@ -1944,7 +1934,7 @@
         "price_rub": 17160
       },
       {
-        "sort_order": 203,
+        "sort_order": 202,
         "model_name": "Процессор Intel Core i9-10920X",
         "socket": "LGA 2066",
         "tdp_w": 165,
@@ -1954,7 +1944,7 @@
         "price_rub": 63510
       },
       {
-        "sort_order": 204,
+        "sort_order": 203,
         "model_name": "Процессор Intel Core i9-10940X",
         "socket": "LGA 2066",
         "tdp_w": 165,
@@ -1964,7 +1954,7 @@
         "price_rub": 60340
       },
       {
-        "sort_order": 205,
+        "sort_order": 204,
         "model_name": "Процессор Intel Core i9-12900",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1974,7 +1964,7 @@
         "price_rub": 38770
       },
       {
-        "sort_order": 206,
+        "sort_order": 205,
         "model_name": "Процессор Intel Core i9-12900KF",
         "socket": "LGA 1700",
         "tdp_w": 125,
@@ -1984,7 +1974,7 @@
         "price_rub": 27800
       },
       {
-        "sort_order": 207,
+        "sort_order": 206,
         "model_name": "Процессор Intel Core i9-13900F",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -1994,7 +1984,7 @@
         "price_rub": 36900
       },
       {
-        "sort_order": 208,
+        "sort_order": 207,
         "model_name": "Процессор Intel Core i9-13900KS",
         "socket": "Процессор Intel Core i9-13900KS",
         "family": "Core i9",
@@ -2002,7 +1992,7 @@
         "price_rub": 59460
       },
       {
-        "sort_order": 209,
+        "sort_order": 208,
         "model_name": "Процессор Intel Core i9-14900",
         "socket": "LGA 1700",
         "tdp_w": 65,
@@ -2012,7 +2002,7 @@
         "price_rub": 54990
       },
       {
-        "sort_order": 210,
+        "sort_order": 209,
         "model_name": "Процессор Intel Core Ultra 5 245KF BOX",
         "socket": "LGA 1851",
         "tdp_w": 125,
@@ -2022,7 +2012,7 @@
         "price_rub": 21650
       },
       {
-        "sort_order": 211,
+        "sort_order": 210,
         "model_name": "Процессор Intel Core Ultra 7 265F",
         "socket": "LGA 1851",
         "tdp_w": 65,
@@ -2032,7 +2022,7 @@
         "price_rub": 29720
       },
       {
-        "sort_order": 212,
+        "sort_order": 211,
         "model_name": "Процессор Intel Pentium G4400",
         "socket": "LGA 1151",
         "tdp_w": 54,
@@ -2042,7 +2032,7 @@
         "price_rub": 5680
       },
       {
-        "sort_order": 213,
+        "sort_order": 212,
         "model_name": "Процессор Intel Pentium G4600",
         "socket": "LGA 1151",
         "tdp_w": 51,
